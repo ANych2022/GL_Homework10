@@ -1,6 +1,6 @@
 # GL_Homework10
 
-Task 1
+##Task 1
 1. I installed Docker on EC2 instance according instruction from official site https://docs.docker.com/engine/install/ubuntu/
 2. I prepared dockerfile based on Apache image
 ```
